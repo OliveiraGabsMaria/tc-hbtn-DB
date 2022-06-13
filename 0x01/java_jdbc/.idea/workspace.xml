@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0093458-53ad-4052-95de-4230d5f70957" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../0x00/tabela/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0x00/tabela/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0x00/tabela/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0x00/tabela/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0x00/tabela/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0x00/tabela/.idea/tabela.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0x00/tabela/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0x00/tabela/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/gabrielly/Documentos/tc-hbtn-DB/0x01/java_jdbc",
+    "last_opened_file_path": "/home/gabrielly/Documentos/tc-hbtn-DB/0x02/java_jdbc_manipulation/src",
     "settings.editor.selected.configurable": "preferences.JavaFX"
   }
 }]]></component>
